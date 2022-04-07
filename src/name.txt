@@ -1,1 +1,4 @@
 this my first time git pratice session
+hi
+welcome
+first time
